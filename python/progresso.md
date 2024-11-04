@@ -16,3 +16,8 @@ Inicio do progresso 01/10/2024
 
 - Curso Machine Learning do Mario Filho (Kaggle)
 - Curso de Pandas do Mario Filho (Kaggle)
+
+
+
+Rascunho de coisas importantes para aprender em Python...
+![image](https://github.com/user-attachments/assets/4f811c1d-61c9-4527-9706-e3152adc4cec)
