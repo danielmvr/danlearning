@@ -8,7 +8,7 @@ Inicio do progresso 01/10/2024
 
 [X] [X] [X] [X] [X] [X] [X] [X] [X] [X] [X]
 
-[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+[X] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 
 ###### Cada marcação representa 1 hora de escudo em um dia
 
@@ -19,5 +19,5 @@ Inicio do progresso 01/10/2024
 
 
 
-Rascunho de coisas importantes para aprender em Python...
+Rascunho de coisas importantes para aprender/fixar em Python...
 ![image](https://github.com/user-attachments/assets/4f811c1d-61c9-4527-9706-e3152adc4cec)
