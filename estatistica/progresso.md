@@ -2,6 +2,8 @@ Intrudução básica (segui a indicação da Letícia Gerola) (em inglês)
 
 https://www.udacity.com/course/intro-to-descriptive-statistics--ud827
 
+https://www.cursou.com.br/geral/estatistica-usp/#player
+
 :black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button:
 
 :black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button:
