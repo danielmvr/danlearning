@@ -1,10 +1,12 @@
 ### Inicio do progresso 01/10/2024
 
-[X] [X] [X] [X] [X] [ ] [ ] [ ] [ ] [ ] [ ] 
+:white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button:
 
-[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] 
+:black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button:
 
-[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] 
+:black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button:
+
+:black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button:
 
 ###### Cada marcação representa 1 hora de escudo em um dia
 
