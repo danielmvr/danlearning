@@ -4,7 +4,7 @@ https://www.udacity.com/course/intro-to-descriptive-statistics--ud827
 
 https://www.cursou.com.br/geral/estatistica-usp/#player
 
-:black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button:
+:white_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button:
 
 :black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button:
 
