@@ -8,7 +8,7 @@ Inicio do progresso 01/10/2024
 
 [X] [X] [X] [X] [X] [X] [X] [X] [X] [X] [X]
 
-[X] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+[X] [X] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 
 ###### Cada marcação representa 1 hora de escudo em um dia
 
