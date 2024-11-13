@@ -23,3 +23,4 @@ Atualmente estou básicamente estudando inglês pelo método do Mairo Vergara, e
 - [Python Coding Tips: Lessons I Wish I Knew When I Started Coding](https://medium.com/@yaduvanshineelam09/python-coding-tips-lessons-i-wish-i-knew-when-i-started-coding-4e9d9cd0aefb)
 - [The Benefits Of Books On Your Brain](https://medium.com/illumination/the-effects-of-books-on-your-brain-9e4d166e9ee8)
 - [Clean Code in Python: Good vs. Bad Practices Examples](https://medium.com/pythons-gurus/clean-code-in-python-good-vs-bad-practices-examples-2df344bddacc)
+- [How To Improve Your Concentration](https://medium.com/practice-in-public/how-to-build-a-sharp-focus-410ab2e1c2ab)
