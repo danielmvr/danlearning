@@ -27,3 +27,4 @@ Atualmente estou básicamente estudando inglês pelo método do Mairo Vergara, e
 - [How To Improve Your Concentration](https://medium.com/practice-in-public/how-to-build-a-sharp-focus-410ab2e1c2ab)
 - [Data Science Portfolio Projects for all levels](https://medium.com/@bhavikjikadara/data-science-portfolio-projects-for-all-levels-c0ccf6c6a9dc)
 - [Today, Not Tomorrow](https://medium.com/illumination/today-not-tomorrow-advice-from-the-stoics-2f489f9096ff)
+- [How will you be a full-stack data scientist in 2024?](https://medium.com/@aserdargun/how-will-you-become-a-full-stack-data-scientist-in-2024-d1cecb471782)
