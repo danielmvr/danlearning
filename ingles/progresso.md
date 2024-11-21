@@ -2,7 +2,7 @@
 
 :white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button:
 
-:white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::black_square_button::black_square_button:
+:white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button:
 
 :black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button:
 
@@ -10,11 +10,12 @@
 
 ###### Cada marcação representa 1 hora de escudo em um dia
 
-Atualmente estou básicamente estudando inglês pelo método do Mairo Vergara, estou nos modulos de Fundação, dividindo o estudo na seguinte estrutura:
+Atualmente estou básicamente estudando inglês pelo método do Mairo Vergara, estou nos modulos de Mineração (segunda parte do curso), dividindo o estudo na seguinte estrutura:
 
 - 30 minutos de listening
 - 20-30 minutos de vídeo-aula
 - 10 minutos de revisão do ANKI (flash cards)
+- 10 minutos de mineração de novas palavras
 
 #### Artigos lidos em inglês
 
