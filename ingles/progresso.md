@@ -26,3 +26,4 @@ Atualmente estou básicamente estudando inglês pelo método do Mairo Vergara, e
 - [Clean Code in Python: Good vs. Bad Practices Examples](https://medium.com/pythons-gurus/clean-code-in-python-good-vs-bad-practices-examples-2df344bddacc)
 - [How To Improve Your Concentration](https://medium.com/practice-in-public/how-to-build-a-sharp-focus-410ab2e1c2ab)
 - [Data Science Portfolio Projects for all levels](https://medium.com/@bhavikjikadara/data-science-portfolio-projects-for-all-levels-c0ccf6c6a9dc)
+- [Today, Not Tomorrow](https://medium.com/illumination/today-not-tomorrow-advice-from-the-stoics-2f489f9096ff)
