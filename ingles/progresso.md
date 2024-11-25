@@ -4,7 +4,7 @@
 
 :white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button:
 
-:black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button:
+:white_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button:
 
 :black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button:
 
@@ -28,3 +28,4 @@ Atualmente estou básicamente estudando inglês pelo método do Mairo Vergara, e
 - [Data Science Portfolio Projects for all levels](https://medium.com/@bhavikjikadara/data-science-portfolio-projects-for-all-levels-c0ccf6c6a9dc)
 - [Today, Not Tomorrow](https://medium.com/illumination/today-not-tomorrow-advice-from-the-stoics-2f489f9096ff)
 - [How will you be a full-stack data scientist in 2024?](https://medium.com/@aserdargun/how-will-you-become-a-full-stack-data-scientist-in-2024-d1cecb471782)
+- [How To Speak English Fluently / How to Improve Your English Speaking](https://medium.com/@kashafasalm8/how-to-speak-english-fluently-how-to-improve-your-english-speaking-34ab77fa3ce4)
