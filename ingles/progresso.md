@@ -29,3 +29,4 @@ Atualmente estou básicamente estudando inglês pelo método do Mairo Vergara, e
 - [Today, Not Tomorrow](https://medium.com/illumination/today-not-tomorrow-advice-from-the-stoics-2f489f9096ff)
 - [How will you be a full-stack data scientist in 2024?](https://medium.com/@aserdargun/how-will-you-become-a-full-stack-data-scientist-in-2024-d1cecb471782)
 - [How To Speak English Fluently / How to Improve Your English Speaking](https://medium.com/@kashafasalm8/how-to-speak-english-fluently-how-to-improve-your-english-speaking-34ab77fa3ce4)
+- [How I Make Learning New Things Feel Easy and Avoid Burnout](https://medium.com/illumination/how-i-make-learning-new-things-feel-easy-and-avoid-burnout-391892b13f93)
