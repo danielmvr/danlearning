@@ -32,4 +32,4 @@ Atualmente estou básicamente estudando inglês pelo método do Mairo Vergara, e
 - [How will you be a full-stack data scientist in 2024?](https://medium.com/@aserdargun/how-will-you-become-a-full-stack-data-scientist-in-2024-d1cecb471782)
 - [How To Speak English Fluently / How to Improve Your English Speaking](https://medium.com/@kashafasalm8/how-to-speak-english-fluently-how-to-improve-your-english-speaking-34ab77fa3ce4)
 - [How I Make Learning New Things Feel Easy and Avoid Burnout](https://medium.com/illumination/how-i-make-learning-new-things-feel-easy-and-avoid-burnout-391892b13f93)
-- [https://batuhanelersu.medium.com/7-essential-resources-for-data-analyst-self-study-b25a4b38f60d](https://batuhanelersu.medium.com/7-essential-resources-for-data-analyst-self-study-b25a4b38f60d)
+- [7 Essential Resources for Data Analyst Self-Study](https://batuhanelersu.medium.com/7-essential-resources-for-data-analyst-self-study-b25a4b38f60d)
