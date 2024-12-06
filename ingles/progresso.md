@@ -8,7 +8,7 @@
 
 :white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button:
 
-:white_square_button::white_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button:
+:white_square_button::white_square_button::white_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button:
 
 ###### Cada marcação representa 1 hora de escudo em um dia
 
@@ -33,3 +33,4 @@ Atualmente estou básicamente estudando inglês pelo método do Mairo Vergara, e
 - [How To Speak English Fluently / How to Improve Your English Speaking](https://medium.com/@kashafasalm8/how-to-speak-english-fluently-how-to-improve-your-english-speaking-34ab77fa3ce4)
 - [How I Make Learning New Things Feel Easy and Avoid Burnout](https://medium.com/illumination/how-i-make-learning-new-things-feel-easy-and-avoid-burnout-391892b13f93)
 - [7 Essential Resources for Data Analyst Self-Study](https://batuhanelersu.medium.com/7-essential-resources-for-data-analyst-self-study-b25a4b38f60d)
+- [Why Reading is Your Cheat Path to Success](https://medium.com/@kevinnokiawriting/why-reading-is-your-cheat-path-to-success-99e245c0df63)
