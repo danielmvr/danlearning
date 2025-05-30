@@ -3,6 +3,7 @@ Para frente do Storytelling resolvi começar com o livro "Storytelling com Dados
 <img src="https://m.media-amazon.com/images/I/71sQk9TbNxL._AC_UF1000,1000_QL80_.jpg" width="25%">
 
 Iniciei a leitura 04/11/2024
+
 Finalizada - 30/01/2025
 
 Rascunho de coisas importantes para aprender sobre Visualização de dados...
