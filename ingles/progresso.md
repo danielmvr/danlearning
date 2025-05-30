@@ -1,23 +1,13 @@
 ### Inicio do progresso 01/10/2024
 
-:white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button:
+- 28/03/2025 | Finalizei a fundação do curso do Mairo 
 
-:white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button:
+Atualmente estou no modulo do "Mar", onde é feita uma profunda imersão no inglês.
 
-:white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button:
+Rotina:
 
-:white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button:
-
-:white_square_button::white_square_button::white_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button:
-
-###### Cada marcação representa 1 hora de escudo em um dia
-
-Atualmente estou básicamente estudando inglês pelo método do Mairo Vergara, estou nos modulos de Mineração (segunda parte do curso), dividindo o estudo na seguinte estrutura:
-
-- 30 minutos de listening
-- 20-30 minutos de vídeo-aula
+- 1 hora de listening e mineração
 - 10 minutos de revisão do ANKI (flash cards)
-- 10 minutos de mineração de novas palavras
 
 #### Artigos lidos em inglês
 
