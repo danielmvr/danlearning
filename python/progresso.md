@@ -1,22 +1,10 @@
-Atualmente estou fazendo o curso da DSA (Data Science Academy) - Fundamentos de Linguagem Python Para Análise de Dados e Data Science
-
 Inicio do progresso 01/10/2024
-
-:white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button:
-
-:white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button:
-
-:white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button:
-
-:white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::black_square_button::black_square_button:
-
-###### Cada marcação representa 1 hora de escudo em um dia
 
 ### Cursos complementares já concluídos:
 
 - Curso Machine Learning do Mario Filho (Kaggle)
 - Curso de Pandas do Mario Filho (Kaggle)
-
+- Fundamentos de Linguagem Python Para Análise de Dados e Data Science (DSA) - 72 h/a
 
 
 Rascunho de coisas importantes para aprender/fixar em Python...
